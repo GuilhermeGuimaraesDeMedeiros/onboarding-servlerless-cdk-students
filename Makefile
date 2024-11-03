@@ -3,3 +3,7 @@ run-slug:
 
 test:
 	npm run test
+
+cow-slug:
+	pnpm run cow-slug
+
