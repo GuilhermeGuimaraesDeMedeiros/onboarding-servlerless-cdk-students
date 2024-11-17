@@ -7,3 +7,6 @@ test:
 cow-slug:
 	pnpm run cow-slug
 
+say:
+	pnpm run say
+
